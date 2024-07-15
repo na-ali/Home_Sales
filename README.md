@@ -1,4 +1,3 @@
-# Home_Sales
 # Home Sales Analysis with PySpark
 
 ## Overview
